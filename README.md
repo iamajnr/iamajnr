@@ -24,14 +24,6 @@ Computer Vision	Image classification and detection with PyTorch / OpenCV
 Classical ML	Feature engineering, model training, tuning with scikit-learn
 Data Analytics	EDA, dashboards, and reporting with Power BI / Tableau
 Backend	Django / FastAPI services that serve models and AI workflows
-📌 Featured Projects
-
-Replace these with your own pinned repos.
-
-🔍 [Project Name]: RAG-based document search using LangChain, FAISS and an LLM
-🤖 [Project Name]: AI automation pipeline for workflow and defect resolution
-🖼️ [Project Name]: Image classification with PyTorch
-📊 [Project Name]: End-to-end data analysis with a Power BI dashboard
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 📫 Connect With Me
