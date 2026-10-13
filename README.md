@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ajay 👋</h1> <h3 align="center">AI Developer | Python • LLMs • GenAI • Data</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<h1 align="center">Hi, I'm Ajay Nair 👋</h1> <h3 align="center">GenAI Developer | Python • LLMs • GenAI • Data</h3>
 🚀 About Me
 🎓 B.Tech graduate in Artificial Intelligence Engineering
 💼 AI Developer at Tata Consultancy Services (TCS)
@@ -24,7 +24,3 @@ Computer Vision	Image classification and detection with PyTorch / OpenCV
 Classical ML	Feature engineering, model training, tuning with scikit-learn
 Data Analytics	EDA, dashboards, and reporting with Power BI / Tableau
 Backend	Django / FastAPI services that serve models and AI workflows
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-📫 Connect With Me
-<p> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <p align="center"><i>Building AI that's useful, not just impressive.</i></p>
